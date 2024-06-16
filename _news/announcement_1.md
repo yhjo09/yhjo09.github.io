@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-03
+date: 2022-03-01 00:00:00+0900
 inline: true
 related_posts: false
 ---
