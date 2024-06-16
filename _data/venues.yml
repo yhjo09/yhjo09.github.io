@@ -11,4 +11,5 @@
   url: https://arxiv.org/
 
 "Patent":
-  color: "#00369f"
+  # color: "#00369f"
+  color: "#009f36"
