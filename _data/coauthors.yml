@@ -10,10 +10,9 @@
   - firstname: ["Seon Joo", "S. J."]
     url: https://sites.google.com/site/seonjookim/
 
+  - firstname: ["Jinwoo", "J."]
+    url: https://sites.google.com/view/hello-jinwoo
+    
 "yang":
   - firstname: ["Sejong", "S."]
     url: https://yangspace.co.kr/
-
-"kim":
-  - firstname: ["Jinwoo", "J."]
-    url: https://sites.google.com/view/hello-jinwoo
