@@ -21,6 +21,6 @@ I am a Staff Engineer at <a href="https://www.sait.samsung.co.kr/" target="\_bla
 I obtained my Ph.D. degree in Computer Science at Yonsei University advised by Prof. <a href="https://sites.google.com/site/seonjookim" target="\_blank">Seon Joo Kim</a>.
 
 My research interests focus on Deep Learning and Computer Vision.
-Particularly, I am interested in deep learning based image/video restoration (super-resolution, deblurring, ...) and image quality assessment.
+Particularly, I am interested in deep learning based image/video restoration (super-resolution, deblurring, ...), image signal processing, and image quality assessment.
 
-For more information, please refer to my <a href="/assets/pdf/CV_June2021.pdf" target="\_blank">CV</a>.
+For more information, please refer to my <a href="/assets/pdf/CV_July2024.pdf" target="\_blank">CV</a>.
