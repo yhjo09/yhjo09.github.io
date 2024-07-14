@@ -1,18 +1,33 @@
 "nam":
   - firstname: ["Seonghyeon", "S."]
-    url: https://shnnam.github.io/
+    url: https://shnnam.github.io
 
 "oh":
   - firstname: ["Seoung Wug", "S. W."]
-    url: https://sites.google.com/view/seoungwugoh/
+    url: https://sites.google.com/view/seoungwugoh
 
 "kim":
   - firstname: ["Seon Joo", "S. J."]
-    url: https://sites.google.com/site/seonjookim/
+    url: https://sites.google.com/site/seonjookim
 
   - firstname: ["Jinwoo", "J."]
     url: https://sites.google.com/view/hello-jinwoo
     
+  - firstname: ["Dongyoung", "D."]
+    url: https://www.dykim.me
+    
 "yang":
   - firstname: ["Sejong", "S."]
-    url: https://yangspace.co.kr/
+    url: https://yangspace.co.kr
+
+"ki":
+  - firstname: ["Sehwan", "S."]
+    url: https://sites.google.com/site/sehwanki1004
+
+"lee":
+  - firstname: ["Hyong-Euk", "H.-E."]
+    url: https://www.linkedin.com/in/hyong-euk-luke-lee-866812137
+
+"vajda":
+  - firstname: ["Peter", "P."]
+    url: https://sites.google.com/site/vajdap
